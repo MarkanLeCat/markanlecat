@@ -1,6 +1,14 @@
 <a href="https://linkedin.com/in/markanlecat" target="_blank">
   <img src="ProfesionalBanner_Image.png" alt="Profile banner that says Marcelo Millán">
 </a>
+
+<p></p>
+<p align="center">
+  <a href="https://linkedin.com/in/markanlecat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="markanlecat" />
+  </a>
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=42F749&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=30&lines=Hi!+My+name+is+Marcelo+Mill%C3%A1n" alt="Typing SVG" />
@@ -27,11 +35,6 @@
 Systems Engineer and Web Developer with over 1 year of experience. I specialize in Backend development with PHP and Laravel. I've been involved in various web projects, primarily as a Full Stack developer, though my primary focus has been Backend. Throughout my journey, I've honed solid skills in PHP, Laravel, MySQL, as well as JavaScript and CSS Frameworks like Bootstrap. Additionally, I have experience using Git for team collaboration.
 
 Beyond my professional pursuits, I have a keen interest in cybersecurity and video games. I consider myself a computer enthusiast and strive to stay abreast of the latest trends and technological advancements.
-
-## Connect with me 🤝
-<p align="left">
-<a href="https://linkedin.com/in/markanlecat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markanlecat" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools 🛠️
 <p align="left"> 
